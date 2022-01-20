@@ -16,14 +16,29 @@ export const Emotion = () => {
   )
 }
 
-const sectionCss = css``
+const sectionCss = css`
+  display: flex;
 
-const headerCss = css``
+`
 
-const formCss = css``
+const headerCss = css`
 
-const inputCss = css``
+  color: red
+`
 
-const footerCss = css``
+const formCss = css`
 
-const h1Css = css``
+  color: blue
+`
+
+const inputCss = css`
+  color: yellow;
+`
+
+const footerCss = css`
+  background-color: brown;
+`
+
+const h1Css = css`
+  font-size: 2rem;
+`

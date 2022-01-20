@@ -1,0 +1,24 @@
+.section {
+    display: flex;
+}
+
+.header {
+    color: red;
+}
+
+.form {
+    color: blue;
+}
+
+.input {
+    color: yellow;
+}
+
+.footer {
+    background-color: blueviolet;
+}
+
+.h1 {
+    font-size: 2rem;
+}
+
